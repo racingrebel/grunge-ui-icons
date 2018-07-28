@@ -9,3 +9,4 @@
 |:-------------:| ------------- |
 | ![Diamond Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/diamond.svg?sanitize=true "Diamond") | Diamond |
 | ![X Thin Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/x-thin.svg?sanitize=true "X Thin") | X Thin |
+| ![X Medium Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/x-medium.svg?sanitize=true "X Medium") | X Medium |
