@@ -1,0 +1,44 @@
+{
+  "name": "@grunge-ui/icons-react",
+  "version": "1.0.1",
+  "description": "An edgier icon library for React",
+  "main": "index.js",
+  "scripts": {
+    "buildComponents": "node_modules/.bin/svgr --icon --no-svgo -d components icons",
+    "buildIndex": "node buildIndex.js components/",
+    "buildBabel": "node_modules/.bin/babel components/ --out-dir build/",
+    "copyPackageJSON": "cp package.json build/.",
+    "copyReadme": "cp README.md build/.",
+    "build": "npm run buildComponents && npm run buildIndex && npm run buildBabel && npm run copyPackageJSON && npm run copyReadme",
+    "clean": "rm -r build/ components/",
+    "publish": "npm run clean && npm version patch && npm run build && npm publish build --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racingrebel/grunge-ui-icons.git"
+  },
+  "keywords": [
+    "ui",
+    "icons",
+    "react",
+    "grunge",
+    "edgy"
+  ],
+  "author": "Sergei Grishin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/racingrebel/grunge-ui-icons/issues"
+  },
+  "homepage": "https://github.com/racingrebel/grunge-ui-icons#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/preset-react": "^7.0.0",
+    "@svgr/cli": "^4.1.0",
+    "glob": "^7.1.3",
+    "lodash": "^4.17.11",
+    "reserved-words": "^0.1.2"
+  }
+}
