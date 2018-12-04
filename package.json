@@ -4,14 +4,14 @@
   "description": "An edgier icon library for React",
   "main": "index.js",
   "scripts": {
-    "buildComponents": "node_modules/.bin/svgr --icon --no-svgo -d components icons",
+    "buildComponents": "node_modules/.bin/svgr --no-svgo -d components icons",
     "buildIndex": "node buildIndex.js components/",
     "buildBabel": "node_modules/.bin/babel components/ --out-dir build/",
     "copyPackageJSON": "cp package.json build/.",
     "copyReadme": "cp README.md build/.",
     "build": "npm run buildComponents && npm run buildIndex && npm run buildBabel && npm run copyPackageJSON && npm run copyReadme",
     "clean": "rm -r build/ components/",
-    "publish": "npm run clean && npm version patch && npm run build && npm publish build --access public",
+    "publish": "npm run clean && npm version patch && npm run build && npm publish build/ --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
