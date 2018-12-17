@@ -1,6 +1,6 @@
 {
   "name": "@grunge-ui/icons-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An edgier icon library for React",
   "main": "index.js",
   "scripts": {
