@@ -12,3 +12,4 @@
 | ![X Medium Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/x-medium.svg?sanitize=true "X Medium") | X Medium |
 | ![Box Cateye Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/box-cateye.svg?sanitize=true "Box Cateye") | Box Cateye |
 | ![Cart Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/cart.svg?sanitize=true "Cart") | Cart |
+| ![Bolt Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/bolt.svg?sanitize=true "Bolt") | Bolt |
