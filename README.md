@@ -13,3 +13,7 @@
 | ![Box Cateye Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/box-cateye.svg?sanitize=true "Box Cateye") | Box Cateye |
 | ![Cart Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/cart.svg?sanitize=true "Cart") | Cart |
 | ![Bolt Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/bolt.svg?sanitize=true "Bolt") | Bolt |
+| ![Tachometer Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/tachometer.svg?sanitize=true "Tachometer") | Tachometer |
+| ![Wrench Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/wrench.svg?sanitize=true "Wrench") | Wrench |
+| ![Snowflake Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/snowflake.svg?sanitize=true "Snowflake") | Snowflake |
+| ![LED Chip Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/led-chip.svg?sanitize=true "LED Chip") | LED Chip |
