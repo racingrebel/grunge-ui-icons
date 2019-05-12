@@ -18,4 +18,5 @@
 | ![Snowflake Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/snowflake.svg?sanitize=true "Snowflake") | Snowflake |
 | ![LED Chip Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/led-chip.svg?sanitize=true "LED Chip") | LED Chip |
 | ![Check Mark Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/check-mark.svg?sanitize=true "Check Mark") | Check Mark |
-
+| ![Dot Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/dot.svg?sanitize=true "Dot") | Dot |
+| ![Circle Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/circle.svg?sanitize=true "Circle") | Circle |
