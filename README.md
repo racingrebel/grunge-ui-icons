@@ -20,3 +20,4 @@
 | ![Check Mark Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/check-mark.svg?sanitize=true "Check Mark") | Check Mark |
 | ![Dot Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/dot.svg?sanitize=true "Dot") | Dot |
 | ![Circle Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/circle.svg?sanitize=true "Circle") | Circle |
+| ![Circle Medium Icon](https://raw.githubusercontent.com/racingrebel/grunge-ui-icons/master/icons/circle-medium.svg?sanitize=true "Circle-Medium") | Circle-Medium |
